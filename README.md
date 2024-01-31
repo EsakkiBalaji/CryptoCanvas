@@ -1,3 +1,4 @@
-Cryptocanvas is a straightforward Html , Css ,Js project designed to visualize cryptocurrency price data on a graphical canvas. Utilizing a user-friendly interface.
+Cryptocanvas is a straightforward HTML, CSS, and JS project designed to visualize cryptocurrency price data on a graphical canvas. Utilizing a user-friendly interface.
 
-# CryptoCanvas.github.io
+Explore this project at # https://esakkibalaji.github.io/CryptoCanvas/
+
